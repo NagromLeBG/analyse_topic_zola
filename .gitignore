@@ -21,3 +21,5 @@ build/
 *.DS_Store
 .idea/
 .vscode/
+
+corpus_zola_nettoye.csv
